@@ -1,0 +1,13 @@
+numpy
+contrib
+pandas
+matplotlib
+pycaret
+jupyter notebook
+ultralytics
+opencv-python
+threading
+playsound
+pyTelegramBotAPI
+math
+cvzone
